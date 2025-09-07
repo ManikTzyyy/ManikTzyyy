@@ -1,67 +1,77 @@
-<h1 align="center">Hi 👋, I'm Manik</h1>
-<h3 align="center">A passionate website developer</h3>
+<!--![](https://github.com/ManikTzyyy/ManikTzyyy/blob/master/banner.png)-->
+<p align="center">
+  <h1 align="center"> Hi, I'm Manik Yogantara 
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+  </h1>
+</p>
 
-- 🔭 I’m currently working on [plumnet](https://github.com/ManikTzyyy/plumnet.git)
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, React**
-- 👨‍💻 All of my projects are available at [https://maniktzyyy.github.io/web/projects/](https://maniktzyyy.github.io/web/projects/)
-- 📫 How to reach me: **ktmanikyogantara@gmail.com**
+<p align="center">
+<a href="https://linkedin.com/in/manik yogantara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/ktmnk._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discord.gg/manmanixxx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:ktmanikyogantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/manik yogantara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ktmnk._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/manmanixxx" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=maniktzyyy&label=Profile%20Visits&color=blue&style=plastic" alt="maniktzyyy" /> 
 </p>
 
 ---
 
-<div style="display=flex; gap=20px">
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
+- 🔭 I’m currently working on [Plumnet](https://github.com/ManikTzyyy/plumnet.git)  
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, React**  
+- 👨‍💻 All of my projects are available at [my portfolio](https://maniktzyyy.github.io/web/projects/)  
+- 📫 Reach me at **ktmanikyogantara@gmail.com**  
 
-<h3 align="left">Frameworks & Libraries:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-</p>
+---
 
-<h3 align="left">Tools & Platforms:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+**⚙️ &nbsp;GitHub Analytics**
 
-<h3 align="left">Databases:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=maniktzyyy&show_icons=true&theme=dark&locale=en&hide_border=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniktzyyy&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/></td>
+  </tr>
+</table>
 
-<h3 align="left">Others:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</p>
+---
+
+**🛠 &nbsp;Tech Stack**
+
+- **Languages:**  
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+
+
+- **Frameworks & Libraries:**  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+
+- **Databases:**  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+- **Tools & Platforms:**  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring some of my repositories!
+
 </div>
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maniktzyyy&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
