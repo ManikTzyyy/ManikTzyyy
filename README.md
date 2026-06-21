@@ -20,8 +20,7 @@
 </p>
 
 ---
-
-- 🔭 I’m currently working on [Plumnet](https://github.com/ManikTzyyy/plumnet.git)  
+  
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, React**  
 - 👨‍💻 All of my projects are available at [my portfolio](https://maniktzyyy.github.io/web/projects/)  
 - 📫 Reach me at **ktmanikyogantara@gmail.com**  
